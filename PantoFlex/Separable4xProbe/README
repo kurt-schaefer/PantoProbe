@@ -1,0 +1,5 @@
+This probe is very simple to print because it uses fexible sections instead of joints.   It has a 4x mechanical advantage. I have cut it into a few pieces so you can print it on even a fairly small 3D printer.
+
+I printed it out of PLA using a .2 layer height and .4 nozzle. 
+
+You do not strictly need the ball head + base for use with this one, but it does add stability.  I've put the base in it's own file.  If you print the base you'll need a 1.5" 1/4-20 nut and bolt.
